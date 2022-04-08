@@ -10,7 +10,8 @@
 <br>
 
 
-Dans le terminal :
+
+Clonez le projet puis, dans le terminal :
 ```
 dotnet run
 ```
