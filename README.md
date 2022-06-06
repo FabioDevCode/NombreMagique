@@ -4,9 +4,9 @@
   <img height="80px" src="./img/terminal_icon.png">
 </div>
 
-# NombreMagique
+<h1 align="center">NombreMagique</h1>
 
-### > Projet console
+<h3 align="center">Projet console<h3>
 <br>
 
 
@@ -15,4 +15,4 @@ Clonez le projet puis, dans le terminal :
 ```
 dotnet run
 ```
-#
+<br>
